@@ -1,0 +1,6 @@
+<snippet>
+    <description>component</description>
+	<content>&lt;&amp; $1 &amp;&gt;</content>
+    <tabTrigger>&lt;&amp;</tabTrigger>
+    <scope>text.html.mason</scope>
+</snippet>

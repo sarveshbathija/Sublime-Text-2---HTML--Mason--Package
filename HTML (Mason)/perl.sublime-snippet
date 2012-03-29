@@ -1,0 +1,6 @@
+<snippet>
+    <description>perl</description>
+	<content>&lt;%perl&gt;&#10;$1&#10;&lt;/%perl&gt;</content>
+    <tabTrigger>perl</tabTrigger>
+    <scope>text.html.mason</scope>
+</snippet>

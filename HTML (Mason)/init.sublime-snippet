@@ -1,0 +1,6 @@
+<snippet>
+    <description>init</description>
+	<content>&lt;%init&gt;&#10;$1&#10;&lt;/%init&gt;</content>
+    <tabTrigger>init</tabTrigger>
+    <scope>text.html.mason</scope>
+</snippet>

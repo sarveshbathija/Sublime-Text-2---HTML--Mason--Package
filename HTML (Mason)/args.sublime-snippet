@@ -1,0 +1,6 @@
+<snippet>
+    <description>args</description>
+	<content>&lt;%args&gt;&#10;$1&#10;&lt;/%args&gt;</content>
+    <tabTrigger>args</tabTrigger>
+    <scope>text.html.mason</scope>
+</snippet>
